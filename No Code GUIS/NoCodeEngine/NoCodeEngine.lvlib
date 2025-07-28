@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Handle Value Change.vi" Type="VI" URL="../Handle Value Change.vi"/>
 		<Item Name="Open VI.vi" Type="VI" URL="../Open VI.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
