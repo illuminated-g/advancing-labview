@@ -4,4 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Open VI.vi" Type="VI" URL="../Open VI.vi"/>
+	</Item>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
